@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Ayush Gupta and I'm a Full Stack Web Developer, from India![image](https://github.com/user-attachments/assets/b2772d71-a0ea-49b2-93bb-620e5c4a319f)
+<h2 align="left">Hi 👋! My name is Ayush Gupta and I'm a Full Stack Web Developer, from India.
 </h2>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://imgflip.com/gif/9k0cbq"  />
+  <img height="150" src="https://i.imgflip.com/9k0cbq.gif"  />
 </div>
 
 ###
